@@ -27,6 +27,8 @@ $ python main.py
 # Say: "Hey Assistant, what's the weather today?"
 # Assistant: "The weather today is..."
 
+
+
 Dependencies
 List any external libraries or APIs that your project relies on.
 
