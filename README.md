@@ -1,59 +1,63 @@
-AI-Based Voice Assistant
-AI Voice Assistant Logo <!-- Replace with a link to your project logo -->
+# AI-Based Voice Assistant
+
+![AI Voice Assistant Logo](link_to_your_logo_image.png) <!-- Replace with a link to your project logo -->
 
 An intelligent voice assistant implemented in Python, capable of performing various tasks and interactions through voice commands.
 
-Table of Contents
-Overview
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Examples
-Functionality
-Weather
-Message Retrieval
-System Control
-Web Interaction
-Information Retrieval
-Contributing
-License
-Acknowledgments
-Contact
-Overview
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Functionality](#functionality)
+  - [Weather](#weather)
+  - [Message Retrieval](#message-retrieval)
+  - [System Control](#system-control)
+  - [Web Interaction](#web-interaction)
+  - [Information Retrieval](#information-retrieval)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+
+## Overview
+
 Briefly introduce your AI-based voice assistant, mentioning its capabilities and potential use cases.
 
-Features
-List the key features of your voice assistant.
-Use bullet points for easy readability.
-Getting Started
+## Features
+
+- List the key features of your voice assistant.
+- Use bullet points for easy readability.
+
+## Getting Started
+
 Provide step-by-step instructions on how to set up and run your voice assistant locally.
 
-Prerequisites
-Python 3.x
-Libraries: pyttsx3, datetime, speech_recognition, requests, BeautifulSoup, webbrowser, pyautogui, wikipedia, os, psutil, wolframalpha, time, fbchat
-Installation
-Clone the repository to your local machine:
+### Prerequisites
 
-bash
- 
-git clone https://github.com/your-username/ai-voice-assistant.git
-cd ai-voice-assistant
+- Python 3.x
+- Libraries: `pyttsx3`, `datetime`, `speech_recognition`, `requests`, `BeautifulSoup`, `webbrowser`, `pyautogui`, `wikipedia`, `os`, `psutil`, `wolframalpha`, `time`, `fbchat`
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   
+   git clone https://github.com/your-username/ai-voice-assistant.git
+   cd ai-voice-assistant
 Install the required dependencies:
+    pip install -r requirements.txt
 
-bash
- 
-pip install -r requirements.txt
-Run the main script:
+Run the main script
+    python main.py
 
-bash
- 
-python main.py
-Usage
+### Usage
 Explain how users can interact with your voice assistant, including sample commands and expected responses.
 
-Examples
+### Examples
 Provide some example interactions to demonstrate the capabilities of your voice assistant.
 
 Get the Current Time:
@@ -82,16 +86,18 @@ Describe how the assistant interacts with web services like Google, YouTube, and
 Information Retrieval
 Explain how the assistant retrieves information from sources like Wikipedia and Wolfram Alpha.
 
-Contributing
+### Contributing
 Explain how others can contribute to your project, if applicable.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+### Acknowledgments
 Give credit to any resources, libraries, or tutorials that you used or were inspired by.
 
-Contact
-Your Name
-Your Email Address
-Link to your personal website or LinkedIn profile
+### Contact
+mayur phatanagre
+mnphatanagre8@gmail.com
+## https://www.linkedin.com/in/mayur-phatangare-ba874821b/
+
+
