@@ -1,6 +1,7 @@
 # AI-Based Voice Assistant
 
-![AI Voice Assistant Logo](link_to_your_logo_image.png) <!-- Replace with a link to your project logo -->
+![AI Voice Assistant Logo](![_c233194a-5906-4d00-b56a-ad7570d140d8](https://github.com/001Mayur/AI_voice_Assistance/assets/106473664/7b62e5fc-f298-464b-bbb7-261ad0ff1095)
+) <!-- Replace with a link to your project logo -->
 
 An intelligent voice assistant implemented in Python, capable of performing various tasks and interactions through voice commands.
 
