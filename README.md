@@ -1,6 +1,6 @@
 # AI-Based Voice Assistant
 
-![AI Voice Assistant Logo](![Alt text](./assets/a_c233194a-5906-4d00-b56a-ad7570d140d8.jpeg)) <!-- Replace with a link to your project logo -->
+![AI Voice Assistant Logo](link_to_your_logo_image.png) <!-- Replace with a link to your project logo -->
 
 An intelligent voice assistant implemented in Python, capable of performing various tasks and interactions through voice commands.
 
@@ -46,7 +46,7 @@ Provide step-by-step instructions on how to set up and run your voice assistant 
 1. Clone the repository to your local machine:
 
    
-   git clone https://github.com/your-username/ai-voice-assistant.git
+   git clone https://github.com/001Mayur/AI_voice_Assistance.git
    cd ai-voice-assistant
 Install the required dependencies:
     pip install -r requirements.txt
@@ -98,6 +98,6 @@ Give credit to any resources, libraries, or tutorials that you used or were insp
 ### Contact
 mayur phatanagre
 mnphatanagre8@gmail.com
-## https://www.linkedin.com/in/mayur-phatangare-ba874821b/
+https://www.linkedin.com/in/mayur-phatangare-ba874821b/
 
 
